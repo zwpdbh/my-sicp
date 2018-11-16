@@ -1,0 +1,5 @@
+#lang scheme
+
+(define (my-double x) (+ x x))
+
+(my-double 3.14)
